@@ -1,4 +1,4 @@
-16910
+16919
 102D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\source-map-support\LICENSE.md133117988590330421 0
 88D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\fast-deep-equal133117988686390584 1
 95D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\css-tree\lib\tokenizer133117988912976259 1
@@ -16,7 +16,7 @@
 107D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\type-fest\ts41\delimiter-case.d.ts133117988690496534 0
 106D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\caniuse-lite\data\features\let.js133117989013839128 0
 120D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\node-sass\src\libsass\test\test_specificity.cpp133117988943317252 0
-72D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\package.json133118041917470623 0
+72D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\package.json133118127549630466 0
 116D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\object.pick\node_modules\isobject\README.md133117988578101117 0
 140D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\readdirp\node_modules\extglob\node_modules\define-property\index.js133117988666648205 0
 89D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\svgo\lib\svgo.js133117988859827062 0
@@ -27,7 +27,7 @@
 114D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\node-sass\src\libsass\src\sass_values.cpp133117988932498438 0
 83D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\is-extglob133117988614705254 1
 97D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\log-symbols\node_modules133117988391026853 1
-64D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist133118041809348628 1
+64D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist133118127559646806 1
 88D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\xxhash-wasm\esm133117988589368059 1
 99D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\resolve\test\pathfilter.js133117988853866992 0
 117D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\log-symbols\node_modules\chalk\index.js.flow133117988494718354 0
@@ -42,10 +42,10 @@
 95D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\fp\trimStart.js133117989083117512 0
 96D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\fp\complement.js133117988959067428 0
 90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash-es\bind.js133117988949188284 0
-77D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\package-lock.json133118025703039883 0
+77D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\package-lock.json133118103155060966 0
 95D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\escapeRegExp.js133117988991153138 0
 119D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\to-regex-range\node_modules\is-number\index.js133117988665716263 0
-72D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules133118025701732678 1
+72D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules133118103153768101 1
 111D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\autoprefixer\lib\hacks\filter-value.js133117988739430954 0
 93D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash-es\_baseAt.js133117988746764421 0
 127D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\source-map-support\node_modules\source-map\lib\util.js133117988696797480 0
@@ -77,7 +77,7 @@
 100D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\har-schema\lib\timings.json133117988713820303 0
 91D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sshpk\lib\index.js133117988710066308 0
 113D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\caniuse-lite\data\features\es6-number.js133117988958702403 0
-68D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\index.js133118039972398958 0
+68D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\index.js133118048755019805 0
 116D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\yargs\node_modules\read-pkg-up\package.json133117988562293489 0
 101D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\actual\string\sup.js133117989172026872 0
 99D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash-es\wrapperLodash.js133117989023846419 0
@@ -178,7 +178,7 @@
 96D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\utility-types\README.md133117988693513982 0
 109D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\resolve\test\resolver\same_names\foo133117988814935972 1
 96D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\pstree.remy\.travis.yml133118025697704055 0
-77D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.bin133118025701263931 1
+77D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.bin133118103152835461 1
 104D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\nodemon\node_modules\fill-range133118025695041970 1
 122D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c133117988819940516 0
 108D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\es\string\virtual\anchor.js133117988775567820 0
@@ -205,7 +205,7 @@
 111D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\yargs\node_modules\path-type\readme.md133117988666698043 0
 125D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sass-graph\node_modules\get-caller-file\index.js.map133117988526466733 0
 80D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel133117988390318756 1
-78D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@lmdb133118025701343717 1
+78D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@lmdb133118103152855541 1
 77D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\txt\read-this.txt132475715290000000 0
 83D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\cli-cursor133117988611242561 1
 102D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\es\typed-array\map.js133117989148977929 0
@@ -251,7 +251,7 @@
 92D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\_getValue.js133117988929952469 0
 96D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\yargs\lib\completion.js133117988702735198 0
 97D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\es\array\fill.js133117989081133037 0
-90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@msgpackr-extract133118025701343717 1
+90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@msgpackr-extract133118103152855541 1
 99D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\spdx-exceptions\index.json133117988459599713 0
 94D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\_stackClear.js133117988944066761 0
 88D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\xorBy.js133117989096595777 0
@@ -311,7 +311,7 @@
 117D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\node-sass\src\libsass\include\sass\version.h133117988859677458 0
 97D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\abortcontroller-polyfill133117988695125996 1
 91D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\templates\template-product.html133117959001047919 0
-91D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.package-lock.json133118025703665711 0
+91D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.package-lock.json133118103155743020 0
 94D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\repeat-string\LICENSE133117988592088310 0
 118D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\es-abstract\2022\OrdinaryDefineOwnProperty.js133117989041110675 0
 119D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\npm-run-all\node_modules\shebang-regex\license133117988495197321 0
@@ -1855,7 +1855,7 @@
 80D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\map-obj133117988508597760 1
 103D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\_baseMatchesProperty.js133117988844666271 0
 137D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\simple-update-notifier\node_modules\semver\functions\rcompare.js133118025698581706 0
-90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify\README.md133118021890128185 0
+90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify\README.md133118101417263141 0
 115D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\get-symbol-description\.github\FUNDING.yml133117988687447761 0
 109D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\caniuse-lite\data\features\run-in.js133117989042427841 0
 84D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\math-random133117988569204243 1
@@ -2356,7 +2356,7 @@
 115D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\stable\instance\find-last-index.js133117989089154352 0
 111D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\es.typed-array.join.js133117989028872564 0
 97D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\resolver-default133117988515955581 1
-80D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify133118021890128185 1
+80D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify133118101417293038 1
 108D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\is-shared-array-buffer\package.json133117988599058783 0
 89D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\wrappy\wrappy.js133117988516818358 0
 126D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lmdb\node_modules\node-addon-api\package-support.json133117988708534832 0
@@ -2856,7 +2856,7 @@
 103D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\full\json\stringify.js133117989170621469 0
 109D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\features\set\intersection.js133117989140845222 0
 92D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\yargs\lib\assign.js133117988692895639 0
-77D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\index.js.map133118041809338648 0
+77D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\index.js.map133118127559639763 0
 126D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\es.object.get-own-property-symbols.js133117989013120872 0
 106D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\uri-js\dist\esnext\schemes\urn.js133117988697002005 0
 117D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\read-pkg-up\node_modules\strip-bom\readme.md133117988666801284 0
@@ -3101,7 +3101,7 @@
 113D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\yaml\browser\dist\resolveSeq-492ab440.js133117988747877607 0
 117D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\css-tree\node_modules\source-map\lib\util.js133117988696807420 0
 110D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\resolver-default\package.json133117988531793729 0
-93D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify\package.json133118021890088295 0
+93D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify\package.json133118101417203052 0
 99D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\yaml\browser\dist\types.js133117988775936833 0
 91D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\which\CHANGELOG.md133117988563495363 0
 114D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\internals\a-possible-prototype.js133117988680787405 0
@@ -4688,7 +4688,7 @@
 110D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\esnext.math.fscale.js133117989046619780 0
 94D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\es-abstract\es2020.js133117988956845762 0
 112D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\readdirp\node_modules\kind-of\README.md133117988564752311 0
-91D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify\slugify.js133118021890068345 0
+91D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify\slugify.js133118101417163167 0
 88D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.bin\esvalidate133117989196692331 0
 115D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\ora\node_modules\supports-color\browser.js133117988481495753 0
 99D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@swc\helpers\lib\_throw.js133117988840949216 0
@@ -4833,7 +4833,7 @@
 103D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\core\lib\AssetGraph.js133117988715781841 0
 106D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sshpk\lib\formats\openssh-cert.js133117988714189316 0
 105D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\resolver-default\LICENSE133117988458417800 0
-88D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify\LICENSE133118021890038638 0
+88D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify\LICENSE133118101417133239 0
 92D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\fp\curryN.js133117988961780037 0
 97D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sshpk\lib\formats\pem.js133117988715821723 0
 96D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\es-to-primitive\LICENSE133117988477939745 0
@@ -5057,6 +5057,7 @@
 105D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\source-map\build\mini-require.js133117988674201345 0
 101D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\es-abstract\2017\IsRegExp.js133117989015035927 0
 108D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\caniuse-lite\data\features\asmjs.js133117988762695674 0
+86D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\template-product.html133118119126497973 0
 107D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\source-map\build\suffix-browser.js133117988681455612 0
 118D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@jridgewell\gen-mapping\dist\types\types.d.ts133117988692486424 0
 102D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\nodemon\lib\config\command.js133118025697833707 0
@@ -5160,7 +5161,7 @@
 96D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\snapdragon\lib\utils.js133117988681844582 0
 94D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\fp\toLength.js133117989081726543 0
 133D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\simple-update-notifier\node_modules\semver\ranges\outside.js133118025698462029 0
-93D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify\slugify.d.ts133118021890138238 0
+93D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\slugify\slugify.d.ts133118101417303016 0
 108D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\simple-update-notifier\node_modules133118025700974710 1
 107D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\js-yaml\lib\js-yaml\schema\core.js133117988601545165 0
 108D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\simple-update-notifier\src\cache.ts133118025696581950 0
@@ -5540,7 +5541,7 @@
 103D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\css-what\lib\commonjs\index.js133117988490015825 0
 104D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\caniuse-lite\data\regions\YT.js133117989095937534 0
 97D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sass-graph\bin\sassgraph133117988579890211 0
-90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sass\node_modules133118025701343717 1
+90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sass\node_modules133118103152855541 1
 115D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\es\typed-array\to-locale-string.js133117989176695973 0
 111D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\es-abstract\2022\StringToCodePoints.js133117989096565857 0
 120D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\esnext.typed-array.find-last.js133117989078062127 0
@@ -7371,7 +7372,7 @@
 106D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\features\instance\some.js133117989165944485 0
 90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\parcel\src\bin.js133117988496818612 0
 91D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\msgpackr\struct.js133117988696458356 0
-93D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\nodemon\node_modules133118025701313792 1
+93D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\nodemon\node_modules133118103152875364 1
 91D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\nan\doc\methods.md133117988765553884 0
 88D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\fp\__.js133117988489596950 0
 90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\parcel\src\cli.js133117988571538411 0
@@ -10218,6 +10219,7 @@
 104D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\full\promise\finally.js133117989087446496 0
 94D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\_baseRepeat.js133117988878488036 0
 123D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133117988712554790 0
+94D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\template-card.f315c0d0.js.map133118119126627503 0
 94D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\_baseSample.js133117988879608452 0
 104D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\features\map\emplace.js133117988990180294 0
 120D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\internals\symbol-define-to-primitive.js133117989172584337 0
@@ -13772,6 +13774,7 @@
 111D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\esnext.iterator.map.js133117989039649485 0
 116D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\es.data-view.constructor.js133117989000289077 0
 108D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\es.date.get-year.js133117989000850094 0
+98D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\template-overview.79430af8.js.map133118119126627503 0
 103D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\es.date.now.js133117989000880015 0
 113D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\es.date.to-gmt-string.js133117989001071605 0
 113D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\es.date.to-iso-string.js133117989001121467 0
@@ -16617,6 +16620,7 @@
 132D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\core\test\fixtures\application-targets\package.json133117988928166875 0
 106D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\core\src\applyRuntimes.js133117988708045985 0
 103D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\core\src\AssetGraph.js133117988726469425 0
+83D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\template-card.html133118119126186764 0
 103D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\core\src\assetUtils.js133117988759269358 0
 107D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\core\src\CommittedAsset.js133117988782467361 0
 102D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\core\src\constants.js133117988812461321 0
@@ -16908,4 +16912,9 @@
 88D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.bin\terser.ps1133117989196702303 0
 82D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.bin\uuid133117989196782095 0
 86D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.bin\uuid.cmd133117989196712277 0
-73D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\index.js133118041809299106 0
+73D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\index.js133118127559579925 0
+90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\template-card.f315c0d0.js133118119126537751 0
+94D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\template-overview.79430af8.js133118119126528051 0
+87D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\template-overview.html133118119126497973 0
+93D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\template-product.61e132f0.js133118119126537751 0
+97D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\template-product.61e132f0.js.map133118119126627503 0
