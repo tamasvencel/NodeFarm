@@ -16,7 +16,7 @@
 142D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json133117988776525261 0
 118D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sass-graph\node_modules\string-width\index.js133117988488240378 0
 102D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\es-abstract\helpers\assign.js133117988878066562 0
-72D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\package.json133117992414202967 0
+72D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\package.json133117993514838247 0
 116D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\object.pick\node_modules\isobject\README.md133117988578101117 0
 120D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\node-sass\src\libsass\test\test_specificity.cpp133117988943317252 0
 140D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\readdirp\node_modules\extglob\node_modules\define-property\index.js133117988666648205 0
@@ -28,7 +28,7 @@
 70D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\.gitignore133117991152009258 0
 83D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\is-extglob133117988614705254 1
 97D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\log-symbols\node_modules133117988391026853 1
-64D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist133117992695904680 1
+64D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist133117997889322505 1
 88D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\xxhash-wasm\esm133117988589368059 1
 99D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\resolve\test\pathfilter.js133117988853866992 0
 103D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\escape-string-regexp\readme.md133117988514549338 0
@@ -2798,7 +2798,7 @@
 96D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\@parcel\fs\lib\index.js133117988576877914 0
 98D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\node-sass\src\libsass\res133117988878106457 1
 92D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\yargs\lib\assign.js133117988692895639 0
-77D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\index.js.map133117992695904680 0
+77D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\index.js.map133117997889312532 0
 126D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\es.object.get-own-property-symbols.js133117989013120872 0
 106D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\uri-js\dist\esnext\schemes\urn.js133117988697002005 0
 117D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\read-pkg-up\node_modules\strip-bom\readme.md133117988666801284 0
@@ -5160,7 +5160,7 @@
 122D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sass-graph\node_modules\yargs-parser\CHANGELOG.md133117988556795095 0
 111D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\esnext.bigint.range.js133117989036745364 0
 93D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\lodash\fp\compose.js133117988959087371 0
-90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sass\node_modules133117992410751310 1
+90D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\sass\node_modules133117992412677039 1
 115D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\es\typed-array\to-locale-string.js133117989176695973 0
 111D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\es-abstract\2022\StringToCodePoints.js133117989096565857 0
 120D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\core-js\modules\esnext.typed-array.find-last.js133117989078062127 0
@@ -16722,4 +16722,4 @@
 88D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.bin\terser.ps1133117989196702303 0
 82D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.bin\uuid133117989196782095 0
 86D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\node_modules\.bin\uuid.cmd133117989196712277 0
-73D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\index.js133117992695834871 0
+73D:\programozas\Node.js\Node.js\Node.js-projects\1-node-farm\dist\index.js133117997889232750 0
