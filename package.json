@@ -2,10 +2,10 @@
   "name": "nodefarm",
   "version": "1.0.0",
   "description": "",
-  "default": "templates/template-card.html templates/template-overview.html templates/template-product.html index.js modules/replaceTemplate.js dev-data/data.json",
+  "default": "index.html",
   "scripts": {
-    "startOld": "parcel templates/template-card.html templates/template-overview.html templates/template-product.html index.js modules/replaceTemplate.js dev-data/data.json",
-    "build": "parcel build templates/template-card.html templates/template-overview.html templates/template-product.html index.js modules/replaceTemplate.js dev-data/data.json --dist-dir ./dist",
+    "startOld": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist",
     "---------------------------------------------------------------------------": "",
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver": "live-server",
